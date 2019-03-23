@@ -1,2 +1,2 @@
 # TodoApp
-User "export start or npm run" to run application
+User "expo start or npm run" to run application
